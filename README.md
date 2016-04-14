@@ -1,6 +1,6 @@
 # hello-word
 Um repositório qualquer
 
-Hy guys
+Hi guys
 Im Elias Portela, I'm just studenty learn programming here. 
 Thank you. 
